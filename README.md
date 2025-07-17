@@ -1,3 +1,11 @@
+<img width="1337" height="731" alt="image" src="https://github.com/user-attachments/assets/1147141b-8f49-4349-8810-ea18e74eaa07" />
+
+
+
+
+
+
+
 # IPL-PowerBI-Dashboard-2008-2025
 End-to-end IPL analysis dashboard using Power BI (2008–2025)
 Power BI IPL Analysis Dashboard (2008–2025)
